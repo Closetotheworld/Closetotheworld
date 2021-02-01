@@ -23,4 +23,3 @@ func main() {
 	fmt.Println(me)
 }
 ```
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=closetotheworld)](https://github.com/anuraghazra/github-readme-stats)
